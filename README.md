@@ -25,7 +25,7 @@ To ensure this project works for you, you must modify the src/config.h file to m
 You need the ssid and password of the network to which the mqtt borker is connected.
 You need also provide the ip of the mqtt broker, preferably it should also be protected with a password and username that must be provided.
 Mqtt id should be unique for each device connected to a given mqtt broker.
-The subscription topic is also an example. + means it works on all subtop Subtopics for each output can also be changed.
+The subscription topic is also an example. + means it works on all subtopics. Subtopics for each output can also be changed.
 
 ## IDE
 
