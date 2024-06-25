@@ -11,6 +11,9 @@
 
 Simple project to controll relays on EVW-008 board with ESP8266.It can be useful for home automation or other projects. Will work great with Nod-RED, Home Assistant, Domoticz, etc.
 
+📖 <a href="https://www.inzynierdomu.pl/evw-008-i-mqtt-czyli-devboard-idealny-do-prostej-automatyki/">note about project</a>
+📽️ <a href="https://youtube.com/shorts/Eb1-dHuqsug">short video with project</a>
+
 <div align="center">
 <h2>💖 Support</h2>
 
